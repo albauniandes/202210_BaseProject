@@ -1,3 +1,7 @@
 * [lang^=en] {
-  color: green;
+    color: green;
+}
+
+h2 {
+    font-family: 'Indie Flower';
 }
